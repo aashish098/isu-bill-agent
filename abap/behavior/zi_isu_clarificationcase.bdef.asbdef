@@ -1,0 +1,32 @@
+managed implementation in class zbp_i_isu_clarificationcase unique;
+strict ( 2 );
+
+// The AI agent only PROPOSES a case; this BO is called after a human approves it.
+define behavior for ZI_ISU_ClarificationCase alias ClarificationCase
+persistent table zisu_clarif
+lock master
+authorization master ( global )
+etag master LocalLastChangedAt
+{
+  create;
+  update;
+
+  field ( readonly, numbering : managed ) CaseUuid;
+  field ( readonly ) Status, CreatedBy, CreatedAt, LocalLastChangedAt;
+  field ( mandatory : create ) ContractAccount, BillingDocument, Category;
+
+  determination setInitialStatus on modify { create; }
+
+  mapping for zisu_clarif
+  {
+    CaseUuid           = case_uuid;
+    ContractAccount    = vkont;
+    BillingDocument    = belnr;
+    Category           = category;
+    Summary            = summary;
+    Status             = status;
+    CreatedBy          = created_by;
+    CreatedAt          = created_at;
+    LocalLastChangedAt = local_last_changed_at;
+  }
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "vkont": "100000000001",
+    "partner": "1000000001",
+    "name": "Jonas Muller",
+    "scenario": "NORMAL",
+    "focus_belnr": "700000000024",
+    "reversed_belnr": null,
+    "question": "Customer says the latest bill feels high. Is anything wrong?"
+  },
+  {
+    "vkont": "100000000002",
+    "partner": "1000000002",
+    "name": "Noah Schmidt",
+    "scenario": "NORMAL",
+    "focus_belnr": "700000000048",
+    "reversed_belnr": null,
+    "question": "Customer says the latest bill feels high. Is anything wrong?"
+  },
+  {
+    "vkont": "100000000003",
+    "partner": "1000000003",
+    "name": "Laura Weber",
+    "scenario": "NORMAL",
+    "focus_belnr": "700000000072",
+    "reversed_belnr": null,
+    "question": "Customer says the latest bill feels high. Is anything wrong?"
+  },
+  {
+    "vkont": "100000000004",
+    "partner": "1000000004",
+    "name": "Elias Richter",
+    "scenario": "NORMAL",
+    "focus_belnr": "700000000096",
+    "reversed_belnr": null,
+    "question": "Customer says the latest bill feels high. Is anything wrong?"
+  },
+  {
+    "vkont": "100000000005",
+    "partner": "1000000005",
+    "name": "Leon Becker",
+    "scenario": "NORMAL",
+    "focus_belnr": "700000000120",
+    "reversed_belnr": null,
+    "question": "Customer says the latest bill feels high. Is anything wrong?"
+  },
+  {
+    "vkont": "100000000006",
+    "partner": "1000000006",
+    "name": "Leon Klein",
+    "scenario": "NORMAL",
+    "focus_belnr": "700000000144",
+    "reversed_belnr": null,
+    "question": "Customer says the latest bill feels high. Is anything wrong?"
+  },
+  {
+    "vkont": "100000000007",
+    "partner": "1000000007",
+    "name": "Sophie Becker",
+    "scenario": "NORMAL",
+    "focus_belnr": "700000000168",
+    "reversed_belnr": null,
+    "question": "Customer says the latest bill feels high. Is anything wrong?"
+  },
+  {
+    "vkont": "100000000008",
+    "partner": "1000000008",
+    "name": "Elias Schneider",
+    "scenario": "NORMAL",
+    "focus_belnr": "700000000192",
+    "reversed_belnr": null,
+    "question": "Customer says the latest bill feels high. Is anything wrong?"
+  },
+  {
+    "vkont": "100000000009",
+    "partner": "1000000009",
+    "name": "Jonas Fischer",
+    "scenario": "NORMAL",
+    "focus_belnr": "700000000216",
+    "reversed_belnr": null,
+    "question": "Customer says the latest bill feels high. Is anything wrong?"
+  },
+  {
+    "vkont": "100000000010",
+    "partner": "1000000010",
+    "name": "Leon Becker",
+    "scenario": "NORMAL",
+    "focus_belnr": "700000000240",
+    "reversed_belnr": null,
+    "question": "Customer says the latest bill feels high. Is anything wrong?"
+  },
+  {
+    "vkont": "100000000011",
+    "partner": "1000000011",
+    "name": "Ben Koch",
+    "scenario": "NORMAL",
+    "focus_belnr": "700000000264",
+    "reversed_belnr": null,
+    "question": "Customer says the latest bill feels high. Is anything wrong?"
+  },
+  {
+    "vkont": "100000000012",
+    "partner": "1000000012",
+    "name": "Tim Becker",
+    "scenario": "NORMAL",
+    "focus_belnr": "700000000288",
+    "reversed_belnr": null,
+    "question": "Customer says the latest bill feels high. Is anything wrong?"
+  },
+  {
+    "vkont": "100000000013",
+    "partner": "1000000013",
+    "name": "Elias Wagner",
+    "scenario": "ESTIMATE_CATCHUP",
+    "focus_belnr": "700000000312",
+    "reversed_belnr": null,
+    "question": "Why is this customer's latest bill so much higher than the last few months?"
+  },
+  {
+    "vkont": "100000000014",
+    "partner": "1000000014",
+    "name": "Clara Weber",
+    "scenario": "ESTIMATE_CATCHUP",
+    "focus_belnr": "700000000336",
+    "reversed_belnr": null,
+    "question": "Why is this customer's latest bill so much higher than the last few months?"
+  },
+  {
+    "vkont": "100000000015",
+    "partner": "1000000015",
+    "name": "Noah Schneider",
+    "scenario": "ESTIMATE_CATCHUP",
+    "focus_belnr": "700000000360",
+    "reversed_belnr": null,
+    "question": "Why is this customer's latest bill so much higher than the last few months?"
+  },
+  {
+    "vkont": "100000000016",
+    "partner": "1000000016",
+    "name": "Lukas Wolf",
+    "scenario": "ESTIMATE_CATCHUP",
+    "focus_belnr": "700000000384",
+    "reversed_belnr": null,
+    "question": "Why is this customer's latest bill so much higher than the last few months?"
+  },
+  {
+    "vkont": "100000000017",
+    "partner": "1000000017",
+    "name": "Mia Meyer",
+    "scenario": "RATE_CHANGE",
+    "focus_belnr": "700000000408",
+    "reversed_belnr": null,
+    "question": "Consumption looks the same but the bill went up. Why?"
+  },
+  {
+    "vkont": "100000000018",
+    "partner": "1000000018",
+    "name": "Lina Neumann",
+    "scenario": "RATE_CHANGE",
+    "focus_belnr": "700000000432",
+    "reversed_belnr": null,
+    "question": "Consumption looks the same but the bill went up. Why?"
+  },
+  {
+    "vkont": "100000000019",
+    "partner": "1000000019",
+    "name": "Marie Schmidt",
+    "scenario": "RATE_CHANGE",
+    "focus_belnr": "700000000456",
+    "reversed_belnr": null,
+    "question": "Consumption looks the same but the bill went up. Why?"
+  },
+  {
+    "vkont": "100000000020",
+    "partner": "1000000020",
+    "name": "Lukas Wagner",
+    "scenario": "RATE_CHANGE",
+    "focus_belnr": "700000000480",
+    "reversed_belnr": null,
+    "question": "Consumption looks the same but the bill went up. Why?"
+  },
+  {
+    "vkont": "100000000021",
+    "partner": "1000000021",
+    "name": "Felix Schneider",
+    "scenario": "METER_FACTOR",
+    "focus_belnr": "700000000504",
+    "reversed_belnr": null,
+    "question": "The latest bill is enormous. What happened?"
+  },
+  {
+    "vkont": "100000000022",
+    "partner": "1000000022",
+    "name": "Sophie Muller",
+    "scenario": "METER_FACTOR",
+    "focus_belnr": "700000000528",
+    "reversed_belnr": null,
+    "question": "The latest bill is enormous. What happened?"
+  },
+  {
+    "vkont": "100000000023",
+    "partner": "1000000023",
+    "name": "Marie Zimmermann",
+    "scenario": "METER_FACTOR",
+    "focus_belnr": "700000000552",
+    "reversed_belnr": null,
+    "question": "The latest bill is enormous. What happened?"
+  },
+  {
+    "vkont": "100000000024",
+    "partner": "1000000024",
+    "name": "Felix Wolf",
+    "scenario": "METER_FACTOR",
+    "focus_belnr": "700000000576",
+    "reversed_belnr": null,
+    "question": "The latest bill is enormous. What happened?"
+  },
+  {
+    "vkont": "100000000025",
+    "partner": "1000000025",
+    "name": "Tim Richter",
+    "scenario": "REVERSAL_REBILL",
+    "focus_belnr": "700000000601",
+    "reversed_belnr": "700000000600",
+    "question": "Customer says they were billed twice this month. Explain."
+  },
+  {
+    "vkont": "100000000026",
+    "partner": "1000000026",
+    "name": "Mia Richter",
+    "scenario": "REVERSAL_REBILL",
+    "focus_belnr": "700000000626",
+    "reversed_belnr": "700000000625",
+    "question": "Customer says they were billed twice this month. Explain."
+  },
+  {
+    "vkont": "100000000027",
+    "partner": "1000000027",
+    "name": "Jonas Neumann",
+    "scenario": "REVERSAL_REBILL",
+    "focus_belnr": "700000000651",
+    "reversed_belnr": "700000000650",
+    "question": "Customer says they were billed twice this month. Explain."
+  },
+  {
+    "vkont": "100000000028",
+    "partner": "1000000028",
+    "name": "Felix Klein",
+    "scenario": "REVERSAL_REBILL",
+    "focus_belnr": "700000000676",
+    "reversed_belnr": "700000000675",
+    "question": "Customer says they were billed twice this month. Explain."
+  },
+  {
+    "vkont": "100000000029",
+    "partner": "1000000029",
+    "name": "Sophie Wolf",
+    "scenario": "LONG_PERIOD",
+    "focus_belnr": "700000000699",
+    "reversed_belnr": null,
+    "question": "Why is the latest bill almost double the usual amount?"
+  },
+  {
+    "vkont": "100000000030",
+    "partner": "1000000030",
+    "name": "Tim Becker",
+    "scenario": "LONG_PERIOD",
+    "focus_belnr": "700000000722",
+    "reversed_belnr": null,
+    "question": "Why is the latest bill almost double the usual amount?"
+  },
+  {
+    "vkont": "100000000031",
+    "partner": "1000000031",
+    "name": "Anna Zimmermann",
+    "scenario": "LONG_PERIOD",
+    "focus_belnr": "700000000745",
+    "reversed_belnr": null,
+    "question": "Why is the latest bill almost double the usual amount?"
+  },
+  {
+    "vkont": "100000000032",
+    "partner": "1000000032",
+    "name": "Lukas Klein",
+    "scenario": "LONG_PERIOD",
+    "focus_belnr": "700000000768",
+    "reversed_belnr": null,
+    "question": "Why is the latest bill almost double the usual amount?"
+  },
+  {
+    "vkont": "100000000033",
+    "partner": "1000000033",
+    "name": "Clara Koch",
+    "scenario": "SEASONAL_HEATING",
+    "focus_belnr": "700000000784",
+    "reversed_belnr": null,
+    "question": "Why was the January bill so high?"
+  },
+  {
+    "vkont": "100000000034",
+    "partner": "1000000034",
+    "name": "Lina Neumann",
+    "scenario": "SEASONAL_HEATING",
+    "focus_belnr": "700000000808",
+    "reversed_belnr": null,
+    "question": "Why was the January bill so high?"
+  },
+  {
+    "vkont": "100000000035",
+    "partner": "1000000035",
+    "name": "Finn Neumann",
+    "scenario": "SEASONAL_HEATING",
+    "focus_belnr": "700000000832",
+    "reversed_belnr": null,
+    "question": "Why was the January bill so high?"
+  },
+  {
+    "vkont": "100000000036",
+    "partner": "1000000036",
+    "name": "Laura Becker",
+    "scenario": "SEASONAL_HEATING",
+    "focus_belnr": "700000000856",
+    "reversed_belnr": null,
+    "question": "Why was the January bill so high?"
+  },
+  {
+    "vkont": "100000000037",
+    "partner": "1000000037",
+    "name": "Mia Schmidt",
+    "scenario": "USAGE_SPIKE",
+    "focus_belnr": "700000000888",
+    "reversed_belnr": null,
+    "question": "Why did consumption jump on the latest bill?"
+  },
+  {
+    "vkont": "100000000038",
+    "partner": "1000000038",
+    "name": "Ben Hoffmann",
+    "scenario": "USAGE_SPIKE",
+    "focus_belnr": "700000000912",
+    "reversed_belnr": null,
+    "question": "Why did consumption jump on the latest bill?"
+  },
+  {
+    "vkont": "100000000039",
+    "partner": "1000000039",
+    "name": "Paul Neumann",
+    "scenario": "USAGE_SPIKE",
+    "focus_belnr": "700000000936",
+    "reversed_belnr": null,
+    "question": "Why did consumption jump on the latest bill?"
+  },
+  {
+    "vkont": "100000000040",
+    "partner": "1000000040",
+    "name": "Noah Wolf",
+    "scenario": "USAGE_SPIKE",
+    "focus_belnr": "700000000960",
+    "reversed_belnr": null,
+    "question": "Why did consumption jump on the latest bill?"
+  }
+]

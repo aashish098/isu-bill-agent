@@ -181,11 +181,3 @@ tests/             pytest
 5. **Trust (30s):** open the agent trace, show `eval` (40/40, 0/216 false positives) and the
    human-approval step.
 6. **SAP side (10s):** RAP service, CDS views and managed BO in ADT.
-
-## Interview talking points
-
-- Why the LLM does not calculate (grounding, auditability, testability)
-- Clean core: read through released-style CDS/OData, write only through a RAP BO with human approval
-- How it maps to real IS-U: EABL/EABLG, EGERH/register factor, ERCH/STOKZ, rate categories
-- What production needs: authorizations/DCL, PII masking before the LLM, logging, Gen AI Hub
-  for model governance, a real eval set from closed complaint cases
